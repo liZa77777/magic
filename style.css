@@ -1,0 +1,354 @@
+body{
+	margin: 0px;
+	background: linear-gradient(#160439, #13021D);
+	font-family: "Yanone Kaffeesatz", sans-serif;
+	font-size: 20px;
+	height: 6500px;
+}
+header{
+	
+	background-color: #1C1B28;
+	display: flex;
+	
+}
+main{
+	margin-left:100px;
+	margin-right:100px;	
+}
+footer{
+	
+}
+h1{
+	background-image:url("https://catherineasquithgallery.com/uploads/posts/2021-02/1612206364_76-p-fioletovii-fon-dlya-shapki-gacha-laif-104.png");
+	height:400px;
+	background-size:cover;
+	font-size: 100px;
+	color:#D3D1E4;
+	text-align: center;
+	text-shadow: 4px 0px 0px #CB9AB5;
+	margin-top: 0px;
+	padding-top: 200px;
+	margin-bottom:0;
+	font-family: abhaya libre semibold;
+	
+}
+
+header a{
+	color:#D3D1E4;
+	font-size: 30px;
+	text-decoration: none;
+	background-color: #693E83;
+	border-radius: 30px;
+	margin-left: 17%;
+	padding: 10px;
+	height: 30px;
+	margin-top: 20px;
+
+}
+header a:hover{
+	color: pink;
+}
+.kamni{
+	background-color:#693E83;
+	color:#ffffff;
+	padding-bottom: 1px;
+}
+.svecha{
+	background-color:#E67E5D;
+	padding-bottom: 1px;
+}
+.animation:hover{
+	animation: light 2s infinite linear;
+}
+@keyframes light{
+	0%{
+		box-shadow:0px 0px 20px #EBFF1A;
+	}
+	25%{
+		box-shadow:0px 0px 20px #FFBE1A;
+	}
+	50%{
+		box-shadow:0px 0px 20px #FF4B1A;
+	}
+	60%{
+		box-shadow:0px 0px 20px #FF1A4F;
+	}
+	85%{
+		box-shadow:0px 0px 20px #FF1A7C;
+	}
+	100%{
+		box-shadow:0px 0px 20px #FF1AC2;
+	}
+}
+.violet{
+	background-color:#9C00A5;
+	width:50%;
+	padding:20px;
+	border-radius: 30px;
+}
+.blue{
+	background-color:#090073;
+	width:50%;
+	padding:20px;
+	border-radius: 30px;
+}
+.history{
+	background-color:#2F0839; 
+	color:#7EDCDC; 
+	padding: 20px;
+	margin-top: 0;
+}
+.practica{
+	background-color:#8E5574; 
+	color:#ffffff; 
+	padding: 20px;
+	margin-top:0px;
+}
+.green{
+	background-color:#6DD26B;
+	width:20%;
+	padding:20px;
+	border-radius: 20px;
+	text-align: center;	
+}
+.zelen{
+	position: relative;
+	left: 90px;
+	bottom:80px;
+}
+.svecha article p{
+	bottom:50px;
+	position: relative;
+}
+.black{
+	background-color:#464646;
+	width:20%;
+	padding:20px;
+	border-radius: 20px;
+	color:#ffffff;
+	text-align: center;
+}
+.white{
+	background-color:#ffffff;
+	width:20%;
+	padding:20px;
+	border-radius: 20px;
+	text-align: center;
+}
+.pink{
+	background-color:#F374B9;
+	width:20%;
+	padding:20px;
+	border-radius: 20px;
+	text-align: center;
+}
+.red{
+	background-color:#C00F0F;
+	width:20%;
+	padding:20px;
+	border-radius: 20px;
+	color:#ffffff;
+	text-align: center;
+}
+.darkblue{
+	background-color:#373CB9;
+	width:20%;
+	padding:20px;
+	border-radius: 20px;
+	color:#ffffff;
+	text-align: center;
+}
+.purple{
+	background-color:#BD31D4;
+	width:20%;
+	padding:20px;
+	border-radius: 20px;
+	text-align: center;
+}
+.yellow{
+	background-color:#F9D932;
+	width:20%;
+	padding:20px;
+	border-radius: 20px;
+	text-align: center;
+}
+.svecha article{
+	height: 500px;
+	
+	
+}
+.taro p{
+	width: 27%;
+}
+.karti{
+	background-color:#830076;
+	color:#ffffff;
+	padding: 20px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	
+}
+
+
+.taro{
+	background-color:#2C4E2D;
+	color: white;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 20px;
+	min-height: 3850px;
+}
+.taro div {
+	display: flex;
+}
+.taro1{
+	height: 600px;
+	position: relative;
+	top: 50px;
+	left: 5%;
+}
+.taro2{
+	height:400px;
+	position: relative;
+	left: 13%;
+
+	
+}
+.osho{
+	position: relative;
+	top: 150px;
+	left: 10%;
+}
+.taro3{
+	height: 350px;
+	position: relative;
+	left: 30%;
+	bottom: 150px;
+	
+}
+.waite{
+	position: relative;
+	left: 20%;
+	top: 100px;
+}
+.taro4{
+	height:450px;
+	position: relative;
+	left: 25%;
+	bottom: 100px;
+}
+.taro5{
+	height:470px;
+	position: relative;
+	top: 50px;
+	left: 5%;
+}
+.taro6{
+	height:600px;
+	position: relative;
+
+	left: 30%;
+}
+.zarya{
+	position: relative;
+	top: 200px;
+	left: 15%;
+}
+.taro7{
+	height:500px;
+	position: relative;
+	left: 10%;
+	
+}
+.taro8{
+	height:400px;
+	position: relative;
+	top: 50px;
+	left: 20%;
+}
+.crouli{
+	position: relative;
+	left: 30%;
+	top: 450px;
+}
+.taro9{
+	height:400px;
+	position: relative;
+	left: 25%;
+	top: 50px;
+}
+.taro10{
+	height:450px;
+	position: relative;
+	left: 40%;
+	top:250px;
+}
+.luna{
+	position: relative;
+	right: 35%;
+	top: 500px;
+}
+.taro11{
+	height:450px;
+	position: relative;
+	top: 800px;
+	right: 20%;
+}
+footer{
+	background-image:url("фон3.jpg");
+	background-size: 100%;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+footer div{
+	background-color:#9E8656;
+	display: flex;
+	justify-content: space-around;
+	width: 70%;
+	height: 120px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.kamni article{
+	display: flex;
+	justify-content: space-evenly;
+	margin-bottom: 70px;
+	margin-top: 70px;
+}
+.kamni img{
+	height: 200px;
+	margin-top:auto;
+	margin-bottom: auto;
+}
+.svecha div{
+	display: flex;
+	justify-content: space-evenly;
+	margin-bottom: 70px;
+	margin-top: 70px;
+	
+}
+form{
+	background-color:#7B440A;
+	text-align: center;
+	width: 30%;
+	padding:10px;
+	margin-bottom:0;
+	color:#FFC19E;
+}
+form p{
+	font-size:25px;
+	color:#D7FFA8;
+}
+input{
+	background-color: #CBE1B2;
+}
+textarea{
+	background-color: #CBE1B2;
+}
+button{
+	background-color: #456222;
+	color:#B5B5B5;
+	padding: 10px;
+	border-radius: 13px;
+	border: none;
+}
